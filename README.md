@@ -1,4 +1,4 @@
-![logo](https://github.com/Arieehantt11/Arieehantt11/blob/master/background-img_02.png)
+![coding1](https://github.com/Arieehantt11/Arieehantt11/assets/148321959/a50448d2-0f71-46ac-9850-6eb864029b83)
 <h1 align="center">Hi 👋, I'm Arihant Jain</h1>
 <h3 align="center">A Passionate Learner and Upcoming AI/ML Developer from India</h3>
 
